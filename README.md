@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on Development Skills.
+- 🔭 I’m currently working on amazon clone using flutter.
 - 🌱 I’m currently learning app Development with Flutter
 - 👯 I’m looking to collaborate on Implementation of Machine Learning models.
 - 💬 Ask me about App Development and DSA.
